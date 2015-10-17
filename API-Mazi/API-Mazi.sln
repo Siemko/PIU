@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API-Mazi", "API-Mazi\API-Mazi.vcxproj", "{77C9DF6B-D39D-41A9-8430-BFBEBA9C3748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C9DF6B-D39D-41A9-8430-BFBEBA9C3748}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77C9DF6B-D39D-41A9-8430-BFBEBA9C3748}.Debug|Win32.Build.0 = Debug|Win32
+		{77C9DF6B-D39D-41A9-8430-BFBEBA9C3748}.Release|Win32.ActiveCfg = Release|Win32
+		{77C9DF6B-D39D-41A9-8430-BFBEBA9C3748}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

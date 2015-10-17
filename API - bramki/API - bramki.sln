@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API - bramki", "API - bramki\API - bramki.vcxproj", "{7BCA5728-B6DB-427A-A128-332ECDD06FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCA5728-B6DB-427A-A128-332ECDD06FFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7BCA5728-B6DB-427A-A128-332ECDD06FFE}.Debug|Win32.Build.0 = Debug|Win32
+		{7BCA5728-B6DB-427A-A128-332ECDD06FFE}.Release|Win32.ActiveCfg = Release|Win32
+		{7BCA5728-B6DB-427A-A128-332ECDD06FFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API-TDS", "API-TDS\API-TDS.vcxproj", "{A13083A7-A74C-4C80-A8D7-C9800FD6F3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13083A7-A74C-4C80-A8D7-C9800FD6F3A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A13083A7-A74C-4C80-A8D7-C9800FD6F3A5}.Debug|Win32.Build.0 = Debug|Win32
+		{A13083A7-A74C-4C80-A8D7-C9800FD6F3A5}.Release|Win32.ActiveCfg = Release|Win32
+		{A13083A7-A74C-4C80-A8D7-C9800FD6F3A5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
